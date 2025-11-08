@@ -1,7 +1,7 @@
 # 🔥 WildFire
 
 Bring your fires to life — literally.  
-**WildFire** completely overhauls how campfires, stoves, and torches look and behave in *The Long Dark*, with **dynamic fuel-based colors**, **realistic sparks and smoke**, and **smooth lighting transitions** that react to whatever fuel you throw in.
+**WildFire** completely overhauls how campfires, stoves, fire barrels, rim grills, forges, and ammunition workbenches look and behave in *The Long Dark*, with **dynamic fuel-based colors**, **realistic sparks and smoke**, and **smooth lighting transitions** that react to whatever fuel you throw in.
 
 ---
 
