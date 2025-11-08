@@ -11,8 +11,7 @@ Every fuel burns differently — and now your fires do too.
 
 - **Automatic Color Tracking:** Fire color updates in real-time based on the fuel you add.  
 - **Intelligent Color Blending:** Mixes multiple fuels with weighted color blending for smooth transitions.  
-- **Persistent Colors:** Fuel colors linger based on burn time, with adjustable duration multipliers.  
-- **Hardcoded Fuel Colors:** Vanilla and custom fuels use **scientifically accurate** flame colors.  
+- **Persistent Colors:** Fuel colors linger based on burn time.    
 - **Smooth Transitions:** No sudden pops — just a clean, cinematic fade between colors.
 
 > Example: Toss in magnesium powder for a blinding white blaze, or rubidium for a moody violet flame.
@@ -23,11 +22,9 @@ Every fuel burns differently — and now your fires do too.
 
 Because every good fire deserves a little drama.
 
-- **Fuel Addition Sparks:** Every time you add fuel, you’ll see a custom spark burst.  
-- **Per-Fuel Customization:** Each fuel type has unique spark behavior — emission rate, lifetime, color, speed, and size.  
-- **Global Overrides:** Optionally apply your own universal spark settings to all fires.  
-- **Realistic Physics:** Sparks follow believable motion, with configurable flight speed and lifetime.  
-- **Smart Detection:** Automatically disables sparks for special fire types (like forges or industrial stoves).
+- **Fuel Addition Sparks:** Every time you add a custom fuel or vanilla fuel with effect attributes, you’ll see a custom spark burst.  
+- **Per-Fuel Customization:** Included fuel types have unique spark behavior — emission rate, lifetime, color, speed, and size.  
+- **Global Overrides:** Optionally apply your own universal spark settings to all fires.   
 
 ---
 
@@ -35,11 +32,8 @@ Because every good fire deserves a little drama.
 
 Every fire tells a story — and now, so does its smoke.
 
-- **Fuel-Specific Smoke:** Different fuels produce distinct smoke patterns, colors, and lifetimes.  
-- **Realistic Physics:** Enhancements that preserve natural wind and motion behavior.  
-- **Customizable:** Fine-tune density, opacity, lifetime, and speed.  
+- **Fuel-Specific Smoke:** Included fuels produce distinct smoke patterns, colors, and lifetimes.    
 - **Global Override:** Force one consistent smoke style across all fuels.  
-- **Smart Exclusions:** Automatically skips incompatible fires (e.g., six-burner stoves).
 
 ---
 
@@ -49,9 +43,7 @@ Matching light to flame — all in real time.
 
 - **Auto-Matched Colors:** Fire lights instantly adapt to the current fuel color.  
 - **Smooth Transitions:** Lights gently lerp as colors shift.  
-- **Intelligent Offsets:** Converts bright flame tones into realistic, natural light hues.  
-- **Persistent Lighting:** Colors stay locked even through reloads or scene updates.  
-- **Works with Any Fuel:** Red, blue, green, purple — if it burns, it glows.
+- **Intelligent Offsets:** Converts bright flame tones into realistic, natural light hues.   
 
 ---
 
@@ -62,7 +54,7 @@ Matching light to flame — all in real time.
 | Fuel Type         | Fire Color    | Spark Color | Special Effects                            |
 |-------------------|---------------|--------------|---------------------------------------------|
 | Red Flare         | Bright Red    | Red Sparks   | Moderate smoke, standard sparks             |
-| Marine Flare (Blue)| Deep Blue     | Blue Sparks  | Heavy smoke, intense sparks                 |
+| Marine Flare      | Deep Blue     | Blue Sparks  | Heavy smoke, intense sparks                 |
 | Dusting Sulfur    | Vibrant Green | Green Sparks | Dense smoke, extended burn                 |
 | Stump Remover     | Orange/White  | Orange Sparks| Very heavy smoke, “explosive” sparks        |
 
@@ -78,10 +70,6 @@ Matching light to flame — all in real time.
 | Copper Carbonate   | Light Blue       | Blue Sparks   | Good smoke, true copper flame color       |
 
 ---
-
-## ⚙️ Configuration Options
-
-WildFire includes a detailed configuration file for tuning your experience.
 
 ### 🔥 General Settings
 - **Enable WildFire** – Master toggle for all mod features  
@@ -114,27 +102,9 @@ WildFire includes a detailed configuration file for tuning your experience.
 
 ---
 
-## 🧭 Compatibility
-
-WildFire is designed to work seamlessly with:
-- Vanilla *The Long Dark*
-- Other visual/fire overhaul mods (color blending is fully dynamic)
-- Custom fuels and item mods (adds colors automatically if not hardcoded)
-
----
-
-## 🛠️ Technical Notes
-
-- Built using the **latest ModComponent and Addressable APIs**  
-- No scripts modify base game prefabs — all changes are additive  
-- Lightweight performance footprint (no constant update loops)
-
----
-
 ## 💬 Feedback & Contributions
 
-Bug reports, feature suggestions, and flame color requests are welcome.  
-Post in the [issues tab](../../issues) or join the modding Discord’s **#newmods** channel to share your burns.
+
 
 ---
 
