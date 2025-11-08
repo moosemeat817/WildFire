@@ -102,10 +102,23 @@ Matching light to flame — all in real time.
 
 ---
 
-## 💬 Feedback & Contributions
+## ⚙️ Installation Instructions
 
-
+1. Download and unpack `WildFire.zip` into your `Mods` folder  
+2. It contains two files:  
+   - `WildFire.dll`  
+   - `WildFire.modcomponent`  
+3. Make sure both files are in the `Mods` folder
 
 ---
 
-**WildFire** — because survival’s better with colors. 🔥
+## 🧱 Requirements
+
+- [ModSettings](https://github.com/zeobviouslyfakeacc/ModSettings)
+- [ModComponent](https://github.com/zeobviouslyfakeacc/ModComponent)
+
+---
+
+## 🙏 Special Thanks
+
+- The Long Dark Modding Community (Discord)
