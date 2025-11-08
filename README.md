@@ -59,7 +59,7 @@ Matching light to flame — all in real time.
 | Dusting Sulfur    | Vibrant Green | Green Sparks | Dense smoke, extended burn                 |
 | Stump Remover     | Orange/White  | Orange Sparks| Very heavy smoke, “explosive” sparks        |
 
-### 🧪 Custom Fuels (Already Burnable)
+### 🧪 Custom Fuels
 
 | Fuel Type          | Fire Color       | Spark Color   | Special Effects                           |
 |--------------------|------------------|---------------|--------------------------------------------|
