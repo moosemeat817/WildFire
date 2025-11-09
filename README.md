@@ -78,31 +78,6 @@ Matching light to flame — all in real time.
 
 ---
 
-### ✨ Global Spark Override Settings
-> When enabled, overrides all fuel-specific spark values.
-
-- **Enable Spark Modifications** – Master toggle for sparks  
-- **Spark Emission Multiplier (0.1x – 20.0x)** – Number of sparks  
-- **Spark Lifetime Multiplier (0.1x – 10.0x)** – Duration sparks remain visible  
-- **Spark Size Multiplier (0.1x – 5.0x)** – Size of each spark particle  
-- **Spark Speed Multiplier (0.1x – 5.0x)** – Upward velocity of sparks  
-- **Spark Color (RGB)** – Custom color for global sparks  
-- **Spark Duration Multiplier (0.1x – 10.0x)** – How long the overall spark effect lasts (~5s default)
-
----
-
-### 💨 Global Smoke Override Settings
-> When enabled, overrides all fuel-specific smoke values.
-
-- **Enable Smoke Modifications** – Master toggle for smoke behavior  
-- **Smoke Density Multiplier (0.1x – 5.0x)** – Number of smoke particles  
-- **Smoke Lifetime Multiplier (0.1x – 10.0x)** – How long smoke lingers  
-- **Smoke Size Multiplier (0.1x – 5.0x)** – Size of smoke particles  
-- **Smoke Speed Multiplier (0.1x – 3.0x)** – Rate of smoke rise  
-- **Smoke Opacity Multiplier (0.1x – 3.0x)** – Visual thickness of the smoke
-
----
-
 ## ⚙️ Installation Instructions
 
 1. Download and unpack `WildFire.zip` into your `Mods` folder  
