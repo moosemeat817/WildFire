@@ -16,7 +16,7 @@ Every fuel burns differently — and now your fires do too.
 - **Smooth Transitions:** No sudden pops — just a clean, cinematic fade between colors.
 - **Color Change Duration Setting:** A multiplier of items burn times that adjusts how long the color changes will last.
 
-> Example: Toss in magnesium powder for a blinding white blaze, or rubidium for a moody violet flame.
+<img src="https://github.com/moosemeat817/ModListJson/blob/main/WildFire_Stoves2.png" width="80%">
 
 ---
 
@@ -28,6 +28,8 @@ Because every good fire deserves a little drama.
 - **Per-Fuel Customization:** Included fuel types have unique spark behavior — emission rate, lifetime, color, speed, and size.  
 - **Global Overrides:** Optionally apply your own universal spark settings to all fires.   
 
+<img src="https://github.com/moosemeat817/ModListJson/blob/main/WildFire_Sparks.png" width="80%">
+
 ---
 
 ## 💨 Advanced Smoke Modifications
@@ -37,6 +39,8 @@ Every fire tells a story — and now, so does its smoke.
 - **Fuel-Specific Smoke:** Included fuels produce distinct smoke patterns, colors, and lifetimes.    
 - **Global Override:** Force one consistent smoke style across all fuels.  
 
+<img src="https://github.com/moosemeat817/ModListJson/blob/main/WildFire_Smoke.png" width="80%">
+
 ---
 
 ## 💡 Dynamic Fire Lighting
@@ -45,7 +49,9 @@ Matching light to flame — all in real time.
 
 - **Auto-Matched Colors:** Fire lights instantly adapt to the current fuel color.  
 - **Smooth Transitions:** Lights gently lerp as colors shift.  
-- **Intelligent Offsets:** Converts bright flame tones into realistic, natural light hues.   
+- **Intelligent Offsets:** Converts bright flame tones into realistic, natural light hues.
+
+<img src="https://github.com/moosemeat817/ModListJson/blob/main/WildFire_Fireplace2.png" width="80%">
 
 ---
 
@@ -65,7 +71,7 @@ Matching light to flame — all in real time.
 <img src="https://github.com/moosemeat817/ModListJson/blob/main/WildFire_Items2.png" width="80%">
 <br>
 
-### 🧪 Custom Fuels (SPEACIAL THANKS TO MARCY FOR CREATING THE CUSTOM GEAR ITEMS!!!!)
+### 🧪 Custom Fuels (SPEACIAL THANKS TO MARCY FOR CREATING THE CUSTOM GEAR ITEMS!!)
 | Fuel Type          | Fire Color       | Spark Color   | Special Effects                           |
 |--------------------|------------------|---------------|--------------------------------------------|
 | Barium Carbonate   | Bright Green     | Green Sparks  | Minimal smoke, clean burn                 |
