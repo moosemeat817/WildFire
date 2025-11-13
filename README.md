@@ -14,6 +14,7 @@ Every fuel burns differently — and now your fires do too.
 - **Intelligent Color Blending:** Mixes multiple fuels with weighted color blending for smooth transitions.  
 - **Persistent Colors:** Fuel colors linger based on burn time.    
 - **Smooth Transitions:** No sudden pops — just a clean, cinematic fade between colors.
+- **Color Change Duration Setting:** A multiplier of items burn times that adjusts how long the color changes will last.
 
 > Example: Toss in magnesium powder for a blinding white blaze, or rubidium for a moody violet flame.
 
