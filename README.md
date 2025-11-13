@@ -62,7 +62,7 @@ Matching light to flame — all in real time.
 | Flare Gun Ammo    | Bright Red    | Red Sparks   | Light smoke, minimal effects              |
 
 <br>
-![WildFire](https://github.com/moosemeat817/ModListJson/blob/main/WildFire_Items.png)
+<img src="https://github.com/moosemeat817/ModListJson/blob/main/WildFire_Items.png" width="80%">
 <br>
 
 ### 🧪 Custom Fuels
