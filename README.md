@@ -71,7 +71,7 @@ Matching light to flame — all in real time.
 <img src="https://github.com/moosemeat817/ModListJson/blob/main/WildFire_Items2.png" width="80%">
 <br>
 
-### 🧪 Custom Fuels (SPEACIAL THANKS TO MARCY FOR CREATING THE CUSTOM GEAR ITEMS!!)
+### 🧪 Custom Fuels (SPECIAL THANKS TO MARCY FOR CREATING THE CUSTOM GEAR ITEMS!!)
 | Fuel Type          | Fire Color       | Spark Color   | Special Effects                           |
 |--------------------|------------------|---------------|--------------------------------------------|
 | Barium Carbonate   | Bright Green     | Green Sparks  | Minimal smoke, clean burn                 |
