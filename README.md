@@ -95,8 +95,8 @@ Matching light to flame — all in real time.
 
 ## 🧱 Requirements
 
-- [ModSettings](https://github.com/DigitalzombieTLD/ModSettings/releases/download/v2.1.0/ModSettings.dll)
-- [ModComponent](https://github.com/dommrogers/ModComponent/releases/download/6.3.2/ModComponent.dll)
+- [ModSettings](https://github.com/DigitalzombieTLD/ModSettings)
+- [ModComponent](https://github.com/dommrogers/ModComponent)
 
 ---
 
