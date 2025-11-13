@@ -62,7 +62,6 @@ Matching light to flame — all in real time.
 | Flare Gun Ammo    | Bright Red    | Red Sparks   | Light smoke, minimal effects              |
 
 
-
 ### 🧪 Custom Fuels
 | Fuel Type          | Fire Color       | Spark Color   | Special Effects                           |
 |--------------------|------------------|---------------|--------------------------------------------|
