@@ -61,6 +61,8 @@ Matching light to flame — all in real time.
 | Gunpowder Can     | Bright White  | Golden Sparks| Light smoke, intense spark shower         |
 | Flare Gun Ammo    | Bright Red    | Red Sparks   | Light smoke, minimal effects              |
 
+
+
 ### 🧪 Custom Fuels
 | Fuel Type          | Fire Color       | Spark Color   | Special Effects                           |
 |--------------------|------------------|---------------|--------------------------------------------|
