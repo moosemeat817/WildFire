@@ -4,8 +4,6 @@ Bring your fires to life!
 
 **WildFire** completely overhauls how the fires for campfires, stoves, fire barrels, rim grills, forges, and ammunition workbenches look and behave in *The Long Dark*, with **dynamic fuel-based colors**, **colorful spark displays and a variety of smoke states**, along **smooth lighting transitions** that react to whatever fuel you throw in.
 
-<img src="https://github.com/moosemeat817/ModListJson/blob/main/WildFire_Cover.jpg" width="80%">
-
 ---
 
 ## 🌈 Dynamic Fuel-Based Fire Colors
