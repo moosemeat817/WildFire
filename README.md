@@ -55,8 +55,8 @@ Matching light to flame — all in real time.
 
 | Fuel Type         | Fire Color    | Spark Color | Special Effects                            |
 |-------------------|---------------|--------------|---------------------------------------------|
-| Red Flare         | Bright Red    | Red Sparks   | Moderate smoke, standard sparks             |
-| Marine Flare      | Deep Blue     | Blue Sparks  | Heavy smoke, intense sparks                 |
+| Red Flare         | Bright Red    | Red Sparks   | Heavy smoke, moderate sparks             |
+| Marine Flare      | Deep Blue     | Blue Sparks  | Heavy smoke, moderate sparks                 |
 | Dusting Sulfur    | Vibrant Green | Green Sparks | Dense smoke, extended burn                 |
 | Stump Remover     | Orange/White  | Orange Sparks| Very heavy smoke, “explosive” sparks        |
 
@@ -70,12 +70,6 @@ Matching light to flame — all in real time.
 | Rubidium           | Purple/Violet    | Purple Sparks | Moderate smoke, alkali-metal effect       |
 | Calcium Chloride   | Red/Orange       | Orange Sparks | Dense smoke, consistent burn              |
 | Copper Carbonate   | Light Blue       | Blue Sparks   | Good smoke, true copper flame color       |
-
----
-
-### 🔥 General Settings
-- **Enable WildFire** – Master toggle for all mod features  
-- **Fire Color (RGB)** – Base fire color when no special fuels are active (default: orange)
 
 ---
 
