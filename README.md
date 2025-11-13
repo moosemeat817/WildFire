@@ -52,24 +52,24 @@ Matching light to flame — all in real time.
 ## 🔬 Supported Fuels
 
 ### 🪵 Vanilla Fuels (Now Burnable)
-
 | Fuel Type         | Fire Color    | Spark Color | Special Effects                            |
 |-------------------|---------------|--------------|---------------------------------------------|
-| Red Flare         | Bright Red    | Red Sparks   | Heavy smoke, moderate sparks             |
-| Marine Flare      | Deep Blue     | Blue Sparks  | Heavy smoke, moderate sparks                 |
-| Dusting Sulfur    | Vibrant Green | Green Sparks | Dense smoke, extended burn                 |
-| Stump Remover     | Orange/White  | Orange Sparks| Very heavy smoke, “explosive” sparks        |
+| Red Flare         | Bright Red    | Red Sparks   | Moderate smoke, steady burn               |
+| Marine Flare      | Deep Blue     | Blue Sparks  | Heavy smoke, slow-rising                 |
+| Dusting Sulfur    | Vibrant Green | Green Sparks | Very dense smoke, extended burn           |
+| Stump Remover     | Orange/White  | Orange Sparks| Extreme smoke output, explosive sparks    |
+| Gunpowder Can     | Bright White  | Golden Sparks| Light smoke, intense spark shower         |
+| Flare Gun Ammo    | Bright Red    | Red Sparks   | Light smoke, minimal effects              |
 
 ### 🧪 Custom Fuels
-
 | Fuel Type          | Fire Color       | Spark Color   | Special Effects                           |
 |--------------------|------------------|---------------|--------------------------------------------|
-| Barium Carbonate   | Bright Green     | Green Sparks  | Light smoke, clean burn                   |
-| Magnesium Powder   | Brilliant White  | White Sparks  | Minimal smoke, intense heat               |
-| Iron Filings       | Golden Yellow    | Golden Sparks | Heavy smoke, extreme spark shower         |
-| Rubidium           | Purple/Violet    | Purple Sparks | Moderate smoke, alkali-metal effect       |
-| Calcium Chloride   | Red/Orange       | Orange Sparks | Dense smoke, consistent burn              |
-| Copper Carbonate   | Light Blue       | Blue Sparks   | Good smoke, true copper flame color       |
+| Barium Carbonate   | Bright Green     | Green Sparks  | Minimal smoke, clean burn                 |
+| Magnesium Powder   | Brilliant White  | White Sparks  | Nearly absent smoke, intense heat         |
+| Iron Filings       | Golden Yellow    | Golden Sparks | Heavy smoke and ash, extreme sparks       |
+| Rubidium           | Purple/Violet    | Purple Sparks | Heavy sustained smoke, moderate sparks    |
+| Calcium Chloride   | Red/Orange       | Orange Sparks | Dense smoke, steady burn                  |
+| Copper Carbonate   | Light Blue       | Blue Sparks   | Heavy persistent smoke, steady sparks     |
 
 ---
 
