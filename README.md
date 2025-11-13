@@ -71,7 +71,7 @@ Matching light to flame — all in real time.
 <img src="https://github.com/moosemeat817/ModListJson/blob/main/WildFire_Items2.png" width="80%">
 <br>
 
-### 🧪 Custom Fuels (SPECIAL THANKS TO MARCY FOR CREATING THE CUSTOM GEAR ITEMS!!)
+### 🧪 Custom Fuels (Extra Special Thanks to Marcy for creating the custom gear items!!)
 | Fuel Type          | Fire Color       | Spark Color   | Special Effects                           |
 |--------------------|------------------|---------------|--------------------------------------------|
 | Barium Carbonate   | Bright Green     | Green Sparks  | Minimal smoke, clean burn                 |
@@ -99,8 +99,10 @@ Matching light to flame — all in real time.
 - [ModComponent](https://github.com/dommrogers/ModComponent)
 
 ---
+## 🙏 Extra Special Thanks
+
+- Marcy - For creating custom gear items for this mod!!  
 
 ## 🙏 Special Thanks
 
-- Marcy - For creating custom gear items for this mod!!  
 - The Long Dark Modding Community (Discord)
